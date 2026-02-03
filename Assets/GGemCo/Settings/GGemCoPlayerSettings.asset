@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 327e29837d2b4c2181ca3834e501b8fa, type: 3}
+  m_Name: GGemCoPlayerSettings
+  m_EditorClassIdentifier: GGemCoScripts::GGemCo2DCore.GGemCoPlayerSettings
+  facingDirection8: 5
+  animationController: 0
+  maxLevel: 0
+  size: {x: 0, y: 0}
+  startScale: 1
+  statAtk: 100
+  statDef: 100
+  statHp: 100
+  statMp: 100
+  statMoveStep: 100
+  statAttackSpeed: 100
+  statMoveSpeed: 100
+  statRegistFire: 0
+  statRegistCold: 0
+  statRegistLightning: 0
+  limitBoundaryLeft: 1
+  limitBoundaryRight: 1
+  limitBoundaryBottom: 1
+  limitBoundaryTop: 1

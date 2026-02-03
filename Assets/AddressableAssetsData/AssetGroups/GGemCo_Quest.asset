@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GGemCo_Quest
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GGemCo_Quest
+  m_GUID: 0fc7b5dbb66bc5a478fffa3c2bbf97ac
+  m_SerializeEntries:
+  - m_GUID: 87a49eaff91d8dd4794c30eb30b89b0c
+    m_Address: GGemCo_Quest_1003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Quest
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90e420e16d979b54d8ecd6db9a683790
+    m_Address: GGemCo_Quest_1001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Quest
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c58d082c6497472c8dbe73ffab3bb374
+    m_Address: GGemCo_Quest_1002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Quest
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 949df33c178a58c4b8ed1bbc3a250338, type: 2}
+    - {fileID: 11400000, guid: b5ae80f314ca11f44aec2822749c5ba1, type: 2}

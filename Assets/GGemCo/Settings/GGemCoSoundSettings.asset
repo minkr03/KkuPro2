@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a7cabfbb5d646f299f4446f39b56857, type: 3}
+  m_Name: GGemCoSoundSettings
+  m_EditorClassIdentifier: GGemCoScripts::GGemCo2DCore.GGemCoSoundSettings
+  buttonClickSounds:
+  - type: 0
+    soundUid: 0
+  - type: 1
+    soundUid: 0
+  - type: 2
+    soundUid: 0
+  - type: 3
+    soundUid: 0

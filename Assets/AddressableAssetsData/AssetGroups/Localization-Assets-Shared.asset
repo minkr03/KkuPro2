@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: f09f806370536384db318832faf46238
+  m_SerializeEntries:
+  - m_GUID: 04ab190dd21fc7b4888306c421ff2626
+    m_Address: Packages/com.ggemco.2d.core/Localization/StringTable/CommonGame/GGemCo_Common_Game
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04de36af6452659498f05a3c674e95f9
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Equip/GGemCo_UIWindowEquip
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e65ecdf33f07a945824aa0c8cd732e5
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/SkillName/GGemCo_Skill_Name
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1445d9a6ef8380f49854cb93b66ec92e
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/PlayerBuffInfo/GGemCo_UIWindowPlayerBuffInfo
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17d013ebd2d81e848a7a783f2460db1c
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Dialogue/GGemCo_UIWindowDialogue
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bd0c154cc304b2478ea96316e61dbfe
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/PlayerStatInfo/GGemCo_UIWindowPlayerStatInfo
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c5f047110e3da8448d951feb3935762
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Title/GGemCo_UI_Window_Title
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2aeb0492d3d68b34f9a819507edc9349
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Stash/GGemCo_UIWindowStash
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 350c8e77721120e4cafb9ce43e4c2627
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/MapName/GGemCo_Map_Name
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50abaf377c9e9ca4db7cad9c8e8ce4c6
+    m_Address: Packages/com.ggemco.2d.core/Localization/StringTable/PreIntro/GGemCo_PreIntro
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53af766f57b5f3342bf692f5dd4576c4
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Skill/GGemCo_UIWindowSkill
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 602730e0444435f42a86ce4b5690dc00
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/ItemBuy/GGemCo_UIWindowItemBuy
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71521dfe2cd7c8f4683c5b2d11062993
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Shop/GGemCo_UIWindowShop
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73a15d126c407b144b9c189c1ca70ec3
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/AffectName/GGemCo_Affect_Name
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 740461471a7c8bb4aad6549ff40edab8
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Option/GGemCo_UIWindowOption
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 760a60ce9aca62a41a857072ead4c01a
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/SkillInfo/GGemCo_UIWindowSkillInfo
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 789c8d7a44c7a7548a7633a7ff05afac
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/QuestReward/GGemCo_UIWindowQuestReward
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856bfbc67aefff34f8eec0f0be77be86
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/ItemUpgrade/GGemCo_UIWindowItemUpgrade
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8797a5fb0e5cacb4e9d7053d57da290a
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/ItemName/GGemCo_Item_Name
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8806804a5d51f314786cfdfdac37c53e
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/LoadSaveData/GGemCo_UIWindowLoadSaveData
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95ab15b344a35fa49acf2c4633d6dab4
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/MonsterName/GGemCo_Monster_Name
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 998882778959da44daa0c1bcb6cf14b5
+    m_Address: Packages/com.ggemco.2d.core/Localization/StringTable/Scene/GGemCo_Scene
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0f718f5b16dfd64fb44a2ce8398b45c
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Inventory/GGemCo_UIWindowInventory
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab72c2dde7056c440bc044403c08f981
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/ItemInfo/GGemCo_UIWindowItemInfo
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad1a521f9ff3af7429c0b0d58d5297b6
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/InteractionDialogue/GGemCo_UIWindowInteractionDialogue
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7dc4cd0d29bf464392f92f4fd11a202
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/NpcName/GGemCo_Npc_Name
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3c17a60c86ee25428496b2f040c0958
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/Hud/GGemCo_UIWindowHud
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c42aaa69ca7ec054e8979e53971a10d5
+    m_Address: Packages/com.ggemco.2d.core/Localization/StringTable/System/GGemCo_System
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cad0bce45edd3434f8c5c3d7674a67ad
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/ShopSale/GGemCo_UIWindowShopSale
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d627dfaf62fc7c74ca1cb6bd958daa57
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/QuickSlot/GGemCo_UIWindowQuickSlot
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e66c208dbfbd5494593b61f4a39be6ad
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/ItemCraft/GGemCo_UIWindowItemCraft
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecd6dea9a98c8d34cb137db401926bfe
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/HudQuest/GGemCo_UIWindowHudQuest
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eda1827c95b64f048a342f30bd62c999
+    m_Address: Packages/com.ggemco.2d.core/Localization/StringTable/CommonUI/GGemCo_Common_UI
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f06fa3f8ee7274743b311dee674bcc6b
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/ItemDescription/GGemCo_Item_Description
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f57d827913a653e459e16ff17edb9c4b
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/StatusName/GGemCo_Status_Name
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f716f52f882e05e409a617d36832e192
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/ItemSplit/GGemCo_UIWindowItemSplit
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbc20940f8baa054b86182e91e3502bf
+    m_Address: Assets/Samples/GGemCo 2D Core/2.10.2/Localization/StringTable/UIWindow/ItemSalvage/GGemCo_UIWindowItemSalvage
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 688ac6ab7b46a8245a91291ffabc4482, type: 2}
+    - {fileID: 11400000, guid: 9ca8eacc4f2201a44a7a3977dbb99a33, type: 2}

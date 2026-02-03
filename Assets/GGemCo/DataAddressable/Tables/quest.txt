@@ -1,0 +1,4 @@
+﻿Uid	Type	Name	FileName	MapUid	NpcUid
+1001	Main	Village Tour	quest_001	101	110001
+1002	Main	Strange Rumor	quest_002	101	110001
+1003	Main	Finding a Suspicious Cat	quest_003	101	110001

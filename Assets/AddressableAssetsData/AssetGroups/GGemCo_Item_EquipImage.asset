@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GGemCo_Item_EquipImage
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GGemCo_Item_EquipImage
+  m_GUID: 6a47c7cf79409944f8a23d0ed237a24f
+  m_SerializeEntries:
+  - m_GUID: 1aacc859b0250ab479fea95a15b8e933
+    m_Address: GGemCo_Item_Equip_102021002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f84904769f43be4bbef61eabbd99b62
+    m_Address: GGemCo_Item_Equip_101011007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28dd42a096c9e324f8a867f2567f6340
+    m_Address: GGemCo_Item_Equip_Chest_body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3395ba1d353bd33409edfcf695e5cecf
+    m_Address: GGemCo_Item_Equip_Boots_leg_r
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 580320f820d24f04d9f56f4d1e3880ea
+    m_Address: GGemCo_Item_Equip_102021001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2a3c5d134776d4098deee4d8696bf7
+    m_Address: GGemCo_Item_Equip_101011006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a37ff0381f93ae4fac35c00230a85af
+    m_Address: GGemCo_Item_Equip_Weapon_knife
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0c885cb778f8354c9dd83ba10324761
+    m_Address: GGemCo_Item_Equip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Item_Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d324c6245f6474fae766c71d5f89ed
+    m_Address: GGemCo_Item_Equip_102021002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1a619cfd3b9aa1499aa6605c7955dd7
+    m_Address: GGemCo_Item_Equip_Boots_leg_l
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a55d26011d0135f4d892787294de401c
+    m_Address: GGemCo_Item_Equip_101011008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6caa6eb34ef3894ea4595b315543a30
+    m_Address: GGemCo_Item_Equip_102011001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca1ebb7d2da4a494b8101f1ddb63e0c9
+    m_Address: GGemCo_Item_Equip_101011021
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb9989f315652c040a0d40b9b8953f05
+    m_Address: GGemCo_Item_Equip_102011002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d439120ce34ec5e4d85ad5c0f82806b7
+    m_Address: GGemCo_Item_Equip_102021001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e2d813d5b8c0d5f4986084969f5f888c, type: 2}
+    - {fileID: 11400000, guid: 3b0a752a85eeeed4996e21a83d3ebbec, type: 2}

@@ -1,0 +1,8 @@
+﻿Uid	Name	IconFileName	Type	Group	TickTime	StatusID	StatusSuffix	Value	Duration	EffectUid	EffectScale	EffectSortingLayer	EffectPositionYType	EffectPositionY
+# 아이템														
+110001	이동속도 증가	MoveSpeed	Buff	MoveSpeed	0	STAT_MOVE_SPEED	INCREASE	30	10	200003	1	CharacterBottom	None	0
+110002	공격속도 증가	AttackSpeed	Buff	AttackSpeed	0	STAT_ATTACK_SPEED	INCREASE	30	10	0	1	None	None	0
+# 스킬														
+210002	패스트 무브	FastMove	Buff	FastMove	0	STAT_MOVE_SPEED	INCREASE	50	10	200003	0.2	CharacterBottom	None	0
+210003	패스트 무브	FastMove	Buff	FastMove	0	STAT_MOVE_SPEED	INCREASE	60	10	200003	0.2	CharacterBottom	None	0
+210004	패스트 무브	FastMove	Buff	FastMove	0	STAT_MOVE_SPEED	INCREASE	70	10	200003	0.2	CharacterBottom	None	0

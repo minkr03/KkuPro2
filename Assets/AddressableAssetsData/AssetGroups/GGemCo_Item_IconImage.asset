@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GGemCo_Item_IconImage
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GGemCo_Item_IconImage
+  m_GUID: 0756655e281450145a2089c08d4c4a4a
+  m_SerializeEntries:
+  - m_GUID: 05617ea97481a1c48b7da9cc3a89d663
+    m_Address: GGemCo_Item_Icon_401011004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ea1ae3ec6590664f991e2fef4ea608c
+    m_Address: GGemCo_Item_Icon_401011001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ff7f973a0b15394a89770c1ca70683b
+    m_Address: GGemCo_Item_Icon_401011003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2599e018bbee12043ae844c02a6aa8b9
+    m_Address: GGemCo_Item_Icon_401011016
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2812fc621cc67de4f9ce904013365525
+    m_Address: GGemCo_Item_Icon_201021001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a59d89b94b41e84b8ee046cae483f9d
+    m_Address: GGemCo_Item_Icon_401011005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ae72ae0548afdd49828146b8b5a5335
+    m_Address: GGemCo_Item_Icon_301021001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c111464c7e7a334289603da184729db
+    m_Address: GGemCo_Item_Icon_401011012
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2edc4c58d30c7b44d81c8bbb6fe40a26
+    m_Address: GGemCo_Item_Icon_101011021
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3393aa3432fa8f940bb57ce7a851e88d
+    m_Address: GGemCo_Item_Icon_401011017
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36bc616ec0c61c049bdc178bf15f1c97
+    m_Address: GGemCo_Item_Icon_201031001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b06fbe8e23bb504f9ee7f9ecb20f1fe
+    m_Address: GGemCo_Item_Icon_201011002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 451d64c0a553c0a4180c4248d4c7eab4
+    m_Address: GGemCo_Item_Icon_401011011
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52a3d253dbf82b6418d6fe47d1008857
+    m_Address: GGemCo_Item_Icon_401011013
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55fcb29894449084aa521ca04ea7b5ec
+    m_Address: GGemCo_Item_Icon_102011001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e6dbf59852fb154bb787a2ab26cbcad
+    m_Address: GGemCo_Item_Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Item_Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 624d9de6d0a4b614a9776d20b1ee4e03
+    m_Address: GGemCo_Item_Icon_401011010
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ef4742525106244882f8dedbdf21148
+    m_Address: GGemCo_Item_Icon_101011007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f7eb740c442de043a7b1e26ce8cee04
+    m_Address: GGemCo_Item_Icon_401011008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74c3c9177aa118541855b8d6ecd22a2c
+    m_Address: GGemCo_Item_Icon_401011009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bf90703218f45443b2015f5bfc0c035
+    m_Address: GGemCo_Item_Icon_401011002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84ed8c526316531499ff899e9f894e12
+    m_Address: GGemCo_Item_Icon_102021002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89d500a45e9f6fa49bad5c9813907a5a
+    m_Address: GGemCo_Item_Icon_301011001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92bbfbb92c1b21340897802070069b4e
+    m_Address: GGemCo_Item_Icon_102011002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1d9ab1985cdc864d98b67e8d9cc986f
+    m_Address: GGemCo_Item_Icon_401011015
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a21a8f944cace0a428e28fc32a58c894
+    m_Address: GGemCo_Item_Icon_101011006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3da279073e89d7429843b1fa777957a
+    m_Address: GGemCo_Item_Icon_401011006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4bdbf0c84907664eaa6530ad56f2e0d
+    m_Address: GGemCo_Item_Icon_201021003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbe71ad3f88d3f74ab408e1078eb45ac
+    m_Address: GGemCo_Item_Icon_401011014
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d00bbc7fb00f8ab41a334f4ed53acae5
+    m_Address: GGemCo_Item_Icon_201021002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc6f35a94a9e85c44911b44de0ce7b25
+    m_Address: GGemCo_Item_Icon_201011003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3430ff36fdc5094cb93950ed3f26c52
+    m_Address: GGemCo_Item_Icon_201041002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea451dc7edf93c04387f059267e5bf26
+    m_Address: GGemCo_Item_Icon_201011001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3f04f5c73f8864684046c2ad31e093
+    m_Address: GGemCo_Item_Icon_102021001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eebdf846d95ffd742a48b3764cfc8eb7
+    m_Address: GGemCo_Item_Icon_101011008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f572c427fa8643047a028fad6e1630fb
+    m_Address: GGemCo_Item_Icon_blank
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6ed0d0e43c51f146b5745e8ae684cce
+    m_Address: GGemCo_Item_Icon_401011007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ec750de1dea75494ab1dde9f6052bfd5, type: 2}
+    - {fileID: 11400000, guid: fc65be0e5d20f9c439552bd554e47fc9, type: 2}

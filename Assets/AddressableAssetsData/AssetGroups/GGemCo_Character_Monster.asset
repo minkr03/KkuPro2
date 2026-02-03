@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GGemCo_Character_Monster
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GGemCo_Character_Monster
+  m_GUID: e69ecae47449232488a1b07f3b272052
+  m_SerializeEntries:
+  - m_GUID: 4490e7ac7cee2024397e2ac9c0c0ca9d
+    m_Address: GGemCo_Character_Monster_2002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Map_Map1_2
+    - GGemCo_Map_Map1_3
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 727b8f9542831ee4eb81e0e7207d1a80
+    m_Address: GGemCo_CharacterThumbnail_Monster_Zombie1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74d7538d126d78745873a4efbdbbf57b
+    m_Address: GGemCo_Character_Monster_2001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Map_Map1_2
+    - GGemCo_Map_Map1_3
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bda297ea434f1e14b8494401e01c5ac6
+    m_Address: GGemCo_CharacterThumbnail_Monster_Skeleton1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: df2451cc37cebfa409504960680b573d, type: 2}
+    - {fileID: 11400000, guid: b9577287ac07bd640abcb21ff9640159, type: 2}

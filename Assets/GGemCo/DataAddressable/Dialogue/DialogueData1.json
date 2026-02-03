@@ -1,0 +1,64 @@
+{
+  "nodes": [
+    {
+      "guid": "a5db09ad-0bbb-466e-9b47-c6916b958e13",
+      "title": null,
+      "dialogueText": "Meow, you look trustworthy! We have a problem in our town.\r\nMy brother cat 2 said he saw something weird, he's just worried.\r\nCan you go and make sure you're okay?",
+      "position": {
+        "x": 215.0,
+        "y": 305.2
+      },
+      "characterType": 3,
+      "characterUid": 110001,
+      "fontSize": 0.0,
+      "thumbnailImage": "",
+      "options": [
+        {
+          "optionText": "Ok",
+          "nextNodeGuid": "6556be13-76f4-4a9c-be1a-172f4a464c13"
+        },
+        {
+          "optionText": "I'm sorry, I'm busy right now",
+          "nextNodeGuid": "b8bd15a5-7973-4a26-8198-51ae8912f03a"
+        }
+      ],
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
+    },
+    {
+      "guid": "6556be13-76f4-4a9c-be1a-172f4a464c13",
+      "title": null,
+      "dialogueText": "Thank you!\r\nAs expected, you are a good human being.\r\nCat 2 will be near the forest.\r\nBe careful!",
+      "position": {
+        "x": 587.0,
+        "y": 218.0
+      },
+      "characterType": 3,
+      "characterUid": 110001,
+      "fontSize": 0.0,
+      "thumbnailImage": "",
+      "options": [],
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
+    },
+    {
+      "guid": "b8bd15a5-7973-4a26-8198-51ae8912f03a",
+      "title": null,
+      "dialogueText": "It's a shame, but there's nothing we can do about it… \r\nBut if you change your mind, I'll ask you. Meow...",
+      "position": {
+        "x": 584.2,
+        "y": 455.0
+      },
+      "characterType": 3,
+      "characterUid": 110001,
+      "fontSize": 0.0,
+      "thumbnailImage": "",
+      "options": [],
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
+    }
+  ]
+}

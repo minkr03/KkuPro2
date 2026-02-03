@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "guid": "695e17b5-1577-4ce3-b727-d36c0ec07fe2",
+      "title": null,
+      "dialogueText": "Meow! You really came!\r\nI just saw some weird zombies in the woods... \r\nMy eyes are shining... with a wobble...",
+      "position": {
+        "x": 207.0,
+        "y": 357.0
+      },
+      "characterType": 3,
+      "characterUid": 110002,
+      "fontSize": 0.0,
+      "thumbnailImage": "",
+      "options": [],
+      "nextNodeGuid": "0ca7bd97-c340-4792-8c04-d193cff29e5e",
+      "startQuestUid": 0,
+      "startQuestStep": 0
+    },
+    {
+      "guid": "ab8d3bc6-d10e-4663-babd-667f0c0d32f2",
+      "title": null,
+      "dialogueText": "At first, I thought it was just a sick person. \r\nBut when I looked up close, the flesh was rotten, \r\nI was making a strange groan...\r\nWhat's more... My eyes felt completely empty.\r\nIt was like something, not a human, not an animal.\r\nI'm sure he's under a spell or a curse!",
+      "position": {
+        "x": 914.0,
+        "y": 158.0
+      },
+      "characterType": 3,
+      "characterUid": 110002,
+      "fontSize": 0.0,
+      "thumbnailImage": "",
+      "options": [],
+      "nextNodeGuid": "0ca7bd97-c340-4792-8c04-d193cff29e5e",
+      "startQuestUid": 0,
+      "startQuestStep": 0
+    },
+    {
+      "guid": "7f5d5436-7e27-4aeb-ac66-95c73df1f49b",
+      "title": null,
+      "dialogueText": "Thank you!",
+      "position": {
+        "x": 905.0,
+        "y": 452.0
+      },
+      "characterType": 3,
+      "characterUid": 110002,
+      "fontSize": 0.0,
+      "thumbnailImage": "",
+      "options": [],
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
+    },
+    {
+      "guid": "0ca7bd97-c340-4792-8c04-d193cff29e5e",
+      "title": null,
+      "dialogueText": "I ran away because I was scared, but I'm sure it was coming towards the village!\r\nPlease, get rid of them!",
+      "position": {
+        "x": 545.0,
+        "y": 347.0
+      },
+      "characterType": 3,
+      "characterUid": 110002,
+      "fontSize": 0.0,
+      "thumbnailImage": "",
+      "options": [
+        {
+          "optionText": "Ask about zombies",
+          "nextNodeGuid": "ab8d3bc6-d10e-4663-babd-667f0c0d32f2"
+        },
+        {
+          "optionText": "Okay.",
+          "nextNodeGuid": "7f5d5436-7e27-4aeb-ac66-95c73df1f49b"
+        }
+      ],
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
+    }
+  ]
+}

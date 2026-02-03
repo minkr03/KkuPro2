@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-English (en)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-String-Tables-English (en)
+  m_GUID: c5b206dd5d618c547968d74b34615005
+  m_SerializeEntries:
+  - m_GUID: 0cde497c6b4e12d4083e51641834e5b0
+    m_Address: GGemCo_Common_Game_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ef033f0e3165bb4dbf81a92201e740d
+    m_Address: GGemCo_Skill_Name_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e8d5c78e8a479143993614f37ba2642
+    m_Address: GGemCo_UIWindowHudQuest_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2292763aae110fe418df04df9b38bdb9
+    m_Address: GGemCo_UIWindowShopSale_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2931b86deae70944e9881da0d9292746
+    m_Address: GGemCo_Monster_Name_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39cc49af5778cb74d828358a22385d60
+    m_Address: GGemCo_Item_Name_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cb9835437d436f43a9513e221555842
+    m_Address: GGemCo_System_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60264e449a9113e4d9aad6f974ab8cf6
+    m_Address: GGemCo_UIWindowOption_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62c8f0a66f0b3524dbde7439d2510223
+    m_Address: GGemCo_UIWindowShop_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a186be43e05a1342929bd8f8b0afd0e
+    m_Address: GGemCo_UIWindowLoadSaveData_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70d6597fcceb19b4c99ed91044709a04
+    m_Address: GGemCo_UIWindowPlayerStatInfo_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73938cf48212d01439a73af190794c9a
+    m_Address: GGemCo_UIWindowPlayerBuffInfo_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7435960ece81bd84c99ca37f81bd6bd4
+    m_Address: GGemCo_UIWindowInteractionDialogue_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75ac636b79750de409b7cb953877caf0
+    m_Address: GGemCo_Affect_Name_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 761d64d19a906924fb6b4fa0b3070032
+    m_Address: GGemCo_UIWindowQuestReward_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76a23a61f6f07ee4893a9d5f492800d5
+    m_Address: GGemCo_UIWindowItemBuy_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81f4d414cfedd64489adeca6e22729fe
+    m_Address: GGemCo_UIWindowItemCraft_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83ea45bf203a5f548993f9e1dd199f6d
+    m_Address: GGemCo_UIWindowStash_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91df5b7841d37d04f8591b482c09001f
+    m_Address: GGemCo_UI_Window_Title_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aec9d9e61341fc4b9a6bf26acc231fb
+    m_Address: GGemCo_Item_Description_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5d88291a13405541900e00641320f5b
+    m_Address: GGemCo_UIWindowHud_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ade3ebd56405f7941b833cacc8ba0bde
+    m_Address: GGemCo_Npc_Name_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b08d1f1436e014f4fb938f1815e742bb
+    m_Address: GGemCo_Scene_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2605f5425f8ab447be3c277daf1a4f4
+    m_Address: GGemCo_PreIntro_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b968400b7d62ecb4e9b5cbdf491cc44c
+    m_Address: GGemCo_UIWindowItemInfo_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf6644764b0425541b1cb0f166408618
+    m_Address: GGemCo_UIWindowEquip_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c552a7580164bf248a2a25215d3b72a6
+    m_Address: GGemCo_UIWindowInventory_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb7251b19d68f974d9c9b88afc0d3f5d
+    m_Address: GGemCo_Common_UI_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd0d6277ee9cff2479bb2d6422b7e85a
+    m_Address: GGemCo_Status_Name_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da40874f2b25612488556245a0f0c9f8
+    m_Address: GGemCo_Map_Name_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df7c9315ca9a8704182a1949abc66b0c
+    m_Address: GGemCo_UIWindowDialogue_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e467f8e140626f1468268a3c2e75417d
+    m_Address: GGemCo_UIWindowItemSalvage_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f35e073bb1eae8543b5cab314eda0a72
+    m_Address: GGemCo_UIWindowSkill_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc9721dadb1ef164590b90b46c121683
+    m_Address: GGemCo_UIWindowQuickSlot_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdcd064bb36ec5849acd188ccba9c179
+    m_Address: GGemCo_UIWindowSkillInfo_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff252719c1a91384aa800a59e6b2845d
+    m_Address: GGemCo_UIWindowItemUpgrade_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff9322a11bf809448885c10f566c979e
+    m_Address: GGemCo_UIWindowItemSplit_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c068bc2ef7ba0924ca6089c598a813b3, type: 2}
+    - {fileID: 11400000, guid: 09115dbdf5dba334182a21b6085ccfb7, type: 2}

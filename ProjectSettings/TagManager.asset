@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - GGemCo_DropItem
+  - GGemCo_Player
+  - GGemCo_Monster
+  - GGemCo_Npc
+  - GGemCo_Map
+  - GGemCo_MapObject
+  - GGemCo_MapObjectWarp
+  - GGemCo_MapGround
+  - GGemCo_GridTileMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GGemCo_TileMapWall
+  - GGemCo_TileMapGround
+  - GGemCo_MonsterHitArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GGemCo_MapTerrain
+    uniqueID: 1
+    locked: 0
+  - name: GGemCo_MapObject
+    uniqueID: 2
+    locked: 0
+  - name: GGemCo_CharacterBottom
+    uniqueID: 3
+    locked: 0
+  - name: GGemCo_Character
+    uniqueID: 4
+    locked: 0
+  - name: GGemCo_CharacterTop
+    uniqueID: 5
+    locked: 0
+  - name: GGemCo_UI
+    uniqueID: 6
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,7 @@
+﻿Uid	Name	Category	PrefabName	AnimationController	Width	Height	ColliderSize	NeedRotation	Color	DefaultDirection
+200001	파이어월	Skill	Firewall	Spine	139	291	200,150	N	FFFFFF	Left
+200002	디크리즈무브	Skill	DecreaseMove	Spine	143	257	143,257	N	7A297B	Left
+200003	패스트무브	Skill	Fastmove	Spine	780	447	780,447	N	FFF766	Left
+200004	파이어볼	Skill	Fireball	Spine	343	197	188,96	Y	FFFFFF	Left
+200005	디크리즈 어텍	Skill	DecreaseMove	Spine	143	257	143,257	N	FFF766	Left
+#200006	아이스볼	Skill	Iceball	Spine	343	197	188,96	Y	60C5F1	Left

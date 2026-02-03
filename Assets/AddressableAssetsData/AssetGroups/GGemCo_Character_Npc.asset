@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GGemCo_Character_Npc
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GGemCo_Character_Npc
+  m_GUID: edf29ac3721358e4093ff1fb79fd41c6
+  m_SerializeEntries:
+  - m_GUID: 13e7206db5da1b442bb36ae3d4589655
+    m_Address: GGemCo_Character_Npc_1001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Map_Map1_1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 245ebe12cfb5aa24e8090998ad0b6945
+    m_Address: GGemCo_Character_Npc_1002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Map_Map1_1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e2a39eedc9991468c31eca932b0052
+    m_Address: GGemCo_CharacterThumbnail_Npc_Npc1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 920afadf737badd46a33f36c6f5fe397
+    m_Address: GGemCo_CharacterThumbnail_Npc_Npc2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dcb69ec9c07f90640b83eec63960f2b8, type: 2}
+    - {fileID: 11400000, guid: 2e8b417a5d97a8c408b75d3ae2473551, type: 2}

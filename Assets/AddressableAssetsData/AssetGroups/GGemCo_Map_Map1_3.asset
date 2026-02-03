@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GGemCo_Map_Map1_3
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GGemCo_Map_Map1_3
+  m_GUID: b647d8042f288ad489e9e0c1b5d69aee
+  m_SerializeEntries:
+  - m_GUID: 2a1ae30df8df9d548aa02d7d3a3dc4c1
+    m_Address: GGemCo_Map_Map1_3_regen_npc
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f79c5d4de60a6248a801ca594c1662b
+    m_Address: GGemCo_Map_Map1_3_warp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a15faf4830255464dac39f75cc24da5d
+    m_Address: GGemCo_Map_Map1_3_regen_monster
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baa327e890caad14da83c0c998bcb5bb
+    m_Address: GGemCo_Map_Map1_3_tilemap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68383f75b079d234782236c863a42913, type: 2}
+    - {fileID: 11400000, guid: 6a37e7c1bee9a7043b01b2c8616e4a8a, type: 2}

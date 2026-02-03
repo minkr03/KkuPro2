@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdce55edac7e4875ae117f7809183f23, type: 3}
+  m_Name: GGemCoGameTimeSettings
+  m_EditorClassIdentifier: GGemCoScripts::GGemCo2DCore.GGemCoGameTimeSettings
+  gameSecondsPerRealSecond: 60
+  startGameDate: 2000-01-01
+  timeByMorning: 
+  useUnscaledTime: 1
+  minSecondsPerMinuteEvent: 1
+  minSecondsPerHourEvent: 10
+  minSecondsPerDayEvent: 60
+  minMinutePerUIUpdateEvent: 1
+  climateByMonth: 00000000030000000300000000000000000000000000000001000000010000000100000002000000020000000200000003000000

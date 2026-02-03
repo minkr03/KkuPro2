@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GGemCo_UIWindowOption Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GGemCo_UIWindowOption
+  m_TableCollectionNameGuidString: 740461471a7c8bb4aad6549ff40edab8
+  m_Entries:
+  - m_Id: 81023012864
+    m_Key: Text_Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7946976362041344
+    m_Key: Text_Bgm_Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947261549547520
+    m_Key: Text_Sfx_Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8283485657174016
+    m_Key: Text_Master_Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8368184790421504
+    m_Key: Text_Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8368232945225728
+    m_Key: Unsaved_Alert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15139494497423360
+    m_Key: Title_UIPanelDefault
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15139620615950336
+    m_Key: Title_UIPanelControl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17697645465767936
+    m_Key: Button_Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17699404724637696
+    m_Key: Button_Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17699499285221376
+    m_Key: Button_Key_Rebind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17699562325610496
+    m_Key: Button_Key_Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17699615459053568
+    m_Key: Button_Key_Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34736530364866560
+    m_Key: Text_Simulation_AlawaysView
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34737184135225344
+    m_Key: Text_Simulation_MovingView
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34737614198185984
+    m_Key: Title_UIPanelSimulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40237675652882432
+    m_Key: Button_Text_Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40237865306726400
+    m_Key: Button_Text_GoToIntro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40238015051767808
+    m_Key: Button_Text_Quit
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9086697449404498044
+  references:
+    version: 2
+    RefIds:
+    - rid: 9086697449404498044
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1752035965839

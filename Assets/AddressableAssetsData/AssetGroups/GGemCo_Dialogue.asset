@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GGemCo_Dialogue
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GGemCo_Dialogue
+  m_GUID: c628531349c51014b839996d0357ba1e
+  m_SerializeEntries:
+  - m_GUID: d47a0000ca2fb2047bc49e57b0ffab1f
+    m_Address: GGemCo_Dialogue_10002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Dialouge
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec39649d909bc7a49925299905364935
+    m_Address: GGemCo_Dialogue_10001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Dialouge
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4fd311578a91094c89b266134211769
+    m_Address: GGemCo_Dialogue_10003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_Dialouge
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7576f026792e6224788bcecacbdbe73a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d366c3e2c149fb84188ea3e39006beb8, type: 2}
+    - {fileID: 11400000, guid: 3038e699e67c3ca468801f9b8cee1a24, type: 2}
