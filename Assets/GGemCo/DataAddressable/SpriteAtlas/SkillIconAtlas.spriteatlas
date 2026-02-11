@@ -40,10 +40,25 @@ SpriteAtlas:
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
-    packedSpriteRenderDataKeys: []
+    packedSpriteRenderDataKeys:
+    - 2bd1e03115a629b4988547f812c20952: 21300000
+    - 952bda32fe76b4b45b9b9f91b9c081d5: 21300000
+    - 50217373727d1b04baba8e2dfc6590fd: 21300000
+    - a263690d5d69c9b41a51cdd4762e659f: 21300000
+    - fdf4434f9ef4664478db5a9120892cae: 21300000
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2bd1e03115a629b4988547f812c20952, type: 3}
+  - {fileID: 21300000, guid: 952bda32fe76b4b45b9b9f91b9c081d5, type: 3}
+  - {fileID: 21300000, guid: 50217373727d1b04baba8e2dfc6590fd, type: 3}
+  - {fileID: 21300000, guid: a263690d5d69c9b41a51cdd4762e659f, type: 3}
+  - {fileID: 21300000, guid: fdf4434f9ef4664478db5a9120892cae, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fireball
+  - DecreaseMove
+  - Firewall
+  - FastMove
+  - DecreaseAttack
   m_RenderDataMap: {}
   m_Tag: SkillIconAtlas
   m_IsVariant: 0

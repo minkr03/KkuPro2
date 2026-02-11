@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: GGemCoMapSettings
   m_EditorClassIdentifier: GGemCoScripts::GGemCo2DCore.GGemCoMapSettings
   useMap: 1
-  tilemapGridCellSize: {x: 0, y: 0}
-  startMapUid: 0
+  tilemapGridCellSize: {x: 16, y: 16}
+  startMapUid: 101

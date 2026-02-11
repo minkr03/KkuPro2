@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 327e29837d2b4c2181ca3834e501b8fa, type: 3}
   m_Name: GGemCoPlayerSettings
   m_EditorClassIdentifier: GGemCoScripts::GGemCo2DCore.GGemCoPlayerSettings
-  facingDirection8: 5
+  facingDirection8: 1
   animationController: 0
   maxLevel: 0
-  size: {x: 0, y: 0}
+  size: {x: 48, y: 48}
   startScale: 1
   statAtk: 100
   statDef: 100

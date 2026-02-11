@@ -18,9 +18,7 @@ MonoBehaviour:
   - m_GUID: 4490e7ac7cee2024397e2ac9c0c0ca9d
     m_Address: GGemCo_Character_Monster_2002
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - GGemCo_Map_Map1_2
-    - GGemCo_Map_Map1_3
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 727b8f9542831ee4eb81e0e7207d1a80
     m_Address: GGemCo_CharacterThumbnail_Monster_Zombie1
@@ -30,9 +28,7 @@ MonoBehaviour:
   - m_GUID: 74d7538d126d78745873a4efbdbbf57b
     m_Address: GGemCo_Character_Monster_2001
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - GGemCo_Map_Map1_2
-    - GGemCo_Map_Map1_3
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bda297ea434f1e14b8494401e01c5ac6
     m_Address: GGemCo_CharacterThumbnail_Monster_Skeleton1

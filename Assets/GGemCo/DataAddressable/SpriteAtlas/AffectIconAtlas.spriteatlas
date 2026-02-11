@@ -40,10 +40,19 @@ SpriteAtlas:
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
-    packedSpriteRenderDataKeys: []
+    packedSpriteRenderDataKeys:
+    - 94c620a2a03a8df4096319f473b498f5: 21300000
+    - cf6561365e9d67743bd895ba35a36e47: 21300000
+    - 60bca1e7e279d944caa11e36df727dfb: 21300000
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 94c620a2a03a8df4096319f473b498f5, type: 3}
+  - {fileID: 21300000, guid: cf6561365e9d67743bd895ba35a36e47, type: 3}
+  - {fileID: 21300000, guid: 60bca1e7e279d944caa11e36df727dfb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - AttackSpeed
+  - MoveSpeed
+  - FastMove
   m_RenderDataMap: {}
   m_Tag: AffectIconAtlas
   m_IsVariant: 0
